@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Motivations and Problem Statement of Agentic AI for Network Management"
+abbrev: "PS of Agentic AI"
 category: info
 
 docname: draft-hong-nmrg-agenticai-ps-latest
