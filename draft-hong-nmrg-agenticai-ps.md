@@ -62,8 +62,7 @@ informative:
 
 --- abstract
 
-This document outlines the key objectives of introducing Agentic AI to the field of network management and highlights the fundamental issues with existing technologies that must be addressed to achieve these goals. It emphasizes the necessity for relevant groups within the IETF/IRTF and presents the core technological areas requiring standardization. The aim of Agentic AI is to facilitate a paradigm shift in which multiple autonomous AI agents collaborate to fully automate network operation, management and security.
-
+TODO abstract
 
 --- middle
 
