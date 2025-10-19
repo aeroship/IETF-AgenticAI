@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "IRTF"
+workgroup: "Network Management"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Network Management"
+  type: "Research Group"
+  mail: "nmrg@irtf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/nmrg"
+  github: "aeroship/IETF-AgenticAI"
+  latest: "https://aeroship.github.io/IETF-AgenticAI/draft-hong-nmrg-agenticai-ps.html"
 
 author:
  -
