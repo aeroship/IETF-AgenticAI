@@ -26,9 +26,33 @@ venue:
 
 author:
  -
-    fullname: "Yong-Geun Hong"
-    organization: Your Organization Here
-    email: "33885974+aeroship@users.noreply.github.com"
+    fullname: Yong-Geun Hong
+    organization: Daejeon University
+    street: 62 Daehak-ro, Dong-gu
+    city: Daejeon
+    code: 34520
+    country: South Korea
+    email: yonggeun.hong@gmail.com
+-
+    fullname: Joo-Sang Youn
+    organization: DONG-EUI University
+    street: 176 Eomgwangno Busan_jin_gu
+    city: Busan
+    code: 614-714
+    country: South Korea
+    email: joosang.youn@gmail.com
+-
+    fullname: Qin Wu
+    organization: Huawei
+    street: 101 Software Avenue, Yuhua District
+    city: Jiangsu
+    code: 210012
+    country: China
+    email: bill.wu@huawei.com
+-
+    fullname: Huawei
+    organization: Huawei
+    email: benoit@everything-ops.net
 
 normative:
 
