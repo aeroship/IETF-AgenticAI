@@ -4,7 +4,7 @@ abbrev: "PS of Agentic AI"
 category: info
 
 docname: draft-hong-nmrg-agenticai-ps-latest
-submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
+submissiontype: IRTF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
 consensus: true
@@ -12,9 +12,10 @@ v: 3
 area: "IRTF"
 workgroup: "Network Management"
 keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+ - Agentic AI
+ - network managment
+ - motivations
+ - problem statement
 venue:
   group: "Network Management"
   type: "Research Group"
